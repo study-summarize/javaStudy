@@ -1,4 +1,4 @@
-package org.github.fourth.java20;
+package org.github.fourth.java08;
 
 public class Main {
     public static void main(String[] args) {

@@ -9,6 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0.0</version>
     <modules>
+        <module>java08</module>
         <module>java09</module>
         <module>java10</module>
         <module>java11</module>
