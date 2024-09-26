@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.github.fourth</groupId>
-        <artifactId>java-study</artifactId>
+        <artifactId>javaStudy</artifactId>
         <version>1.0.0</version>
     </parent>
 
